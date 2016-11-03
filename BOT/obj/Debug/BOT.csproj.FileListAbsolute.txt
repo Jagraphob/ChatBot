@@ -1,0 +1,44 @@
+C:\Repo\ChatBot\BOT\BOT\bin\Bot Application1.dll.config
+C:\Repo\ChatBot\BOT\BOT\bin\Bot Application1.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Bot Application1.pdb
+C:\Repo\ChatBot\BOT\BOT\bin\Autofac.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Chronic.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.Bot.Builder.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.Bot.Connector.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Newtonsoft.Json.dll
+C:\Repo\ChatBot\BOT\BOT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Repo\ChatBot\BOT\BOT\bin\System.Net.Http.Formatting.dll
+C:\Repo\ChatBot\BOT\BOT\bin\System.Web.Http.dll
+C:\Repo\ChatBot\BOT\BOT\bin\System.Web.Http.WebHost.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Autofac.xml
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.Bot.Builder.xml
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.Bot.Connector.xml
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Repo\ChatBot\BOT\BOT\bin\Newtonsoft.Json.xml
+C:\Repo\ChatBot\BOT\BOT\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Repo\ChatBot\BOT\BOT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Repo\ChatBot\BOT\BOT\bin\System.Net.Http.Formatting.xml
+C:\Repo\ChatBot\BOT\BOT\bin\System.Web.Http.xml
+C:\Repo\ChatBot\BOT\BOT\bin\System.Web.Http.WebHost.xml
+C:\Repo\ChatBot\BOT\BOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Repo\ChatBot\BOT\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+C:\Repo\ChatBot\BOT\BOT\obj\Debug\Bot Application1.dll
+C:\Repo\ChatBot\BOT\BOT\obj\Debug\Bot Application1.pdb
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Microsoft.Web.Infrastructure.dll
+C:\Repo\ChatBot\BOT\BOT\bin\Swashbuckle.Core.dll
+C:\Repo\ChatBot\BOT\BOT\bin\WebActivatorEx.dll
