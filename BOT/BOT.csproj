@@ -138,6 +138,7 @@
     <Compile Include="App_Start\SwaggerConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\MessagesController.cs" />
+    <Compile Include="Dialogs\RootLuisDialog.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -154,6 +155,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Service\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
